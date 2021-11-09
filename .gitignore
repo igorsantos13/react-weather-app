@@ -10,6 +10,8 @@
 
 # production
 /build
+.env
+/src/copy.js
 
 # misc
 .DS_Store
